@@ -1,0 +1,16 @@
+group: Distribuidores, suministros y envios
+description: Tables for 'FUNDAMENTOS DE BASE DE DATOS's homework UTPL 
+
+r = {
+	A:string, B:number
+	'alfa'          , 1     
+	'beta'          , 2 
+}
+
+s = {
+	C:string, D:number, E:string
+	'alfa'  , 10,       'a'	    
+	'beta'  , 10,	    'a'
+	'beta'	, 20,       'b'
+	'yota'	, 10, 	    'b'
+}
